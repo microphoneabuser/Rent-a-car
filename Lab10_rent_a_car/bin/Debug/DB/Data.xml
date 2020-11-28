@@ -1,0 +1,703 @@
+<Data>
+  <Rents>
+    <Rent>
+      <ID>1</ID>
+      <ClientFIO>Петров Пётр</ClientFIO>
+      <Name>HYUNDAI CRETA 2018</Name>
+      <Price>3850</Price>
+      <DepositType>money</DepositType>
+      <Deposit>15500</Deposit>
+      <Measure>дней</Measure>
+      <Period>40</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>1,3</AddServices>
+      <Saved>True</Saved>
+      <Date>3.4.2020</Date>
+      <Time>15:0</Time>
+      <Status>Завершена</Status>
+      <Description>да</Description>
+    </Rent>
+    <Rent>
+      <ID>2</ID>
+      <ClientFIO>Лучная Джэйлиза</ClientFIO>
+      <Name>KIA SPORTAGE 2019</Name>
+      <Price>3500</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>3211 890389</Deposit>
+      <Measure>дней</Measure>
+      <Period>10</Period>
+      <CompAddress>ул. Турчанинов пер, д. 24</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 24</SecondAddress>
+      <AddServices>2,3</AddServices>
+      <Saved>True</Saved>
+      <Date>25.4.2020</Date>
+      <Time>10:0</Time>
+      <Status>Завершена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>3</ID>
+      <ClientFIO>Васильев Василий</ClientFIO>
+      <Name>FORD FOCUS 2012</Name>
+      <Price>53000</Price>
+      <DepositType>money</DepositType>
+      <Deposit>13000</Deposit>
+      <Measure>месяцев</Measure>
+      <Period>2</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>0</AddServices>
+      <Saved>True</Saved>
+      <Date>5.3.2020</Date>
+      <Time>10:30</Time>
+      <Status>Завершена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>4</ID>
+      <ClientFIO>Кочегаров Николай</ClientFIO>
+      <Name>ПУШКА ЛАДА 21099 1997</Name>
+      <Price>1000</Price>
+      <DepositType>product</DepositType>
+      <Deposit>часы</Deposit>
+      <Measure>дней</Measure>
+      <Period>18</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>2</AddServices>
+      <Saved>True</Saved>
+      <Date>15.5.2020</Date>
+      <Time>10:0</Time>
+      <Status>Активная</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>5</ID>
+      <ClientFIO>Клиентный Клиент</ClientFIO>
+      <Name>TOYOTA FORTUNER 2012</Name>
+      <Price>5000</Price>
+      <DepositType>money</DepositType>
+      <Deposit>20000</Deposit>
+      <Measure>дней</Measure>
+      <Period>24</Period>
+      <CompAddress>ул. Турчанинов пер, д. 24</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 24</SecondAddress>
+      <AddServices>1,3</AddServices>
+      <Saved>True</Saved>
+      <Date>7.5.2020</Date>
+      <Time>16:0</Time>
+      <Status>Отменена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>6</ID>
+      <ClientFIO>Отличный Клиент</ClientFIO>
+      <Name>Велосипед SilverBack</Name>
+      <Price>500</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>5467 798636</Deposit>
+      <Measure>часов</Measure>
+      <Period>5</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>10.5.2020</Date>
+      <Time>14:8</Time>
+      <Status>Завершена</Status>
+      <Description>Ничего такого</Description>
+    </Rent>
+    <Rent>
+      <ID>7</ID>
+      <ClientFIO>Хороший Клиент</ClientFIO>
+      <Name>Велосипед SilverBack</Name>
+      <Price>500</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>4689 452468</Deposit>
+      <Measure>часов</Measure>
+      <Period>19</Period>
+      <CompAddress>ул. Турчанинов пер, д. 24</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 24</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>10.5.2020</Date>
+      <Time>15:54</Time>
+      <Status>Завершена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>8</ID>
+      <ClientFIO>Лучная Джэйлиза</ClientFIO>
+      <Name>Велосипед SilverBack</Name>
+      <Price>500</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>3245 455345</Deposit>
+      <Measure>часов</Measure>
+      <Period>15</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>11.5.2020</Date>
+      <Time>20:50</Time>
+      <Status>Завершена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>9</ID>
+      <ClientFIO>Кочегаров Николай</ClientFIO>
+      <Name>Велосипед SilverBack</Name>
+      <Price>500</Price>
+      <DepositType>money</DepositType>
+      <Deposit>10000</Deposit>
+      <Measure>часов</Measure>
+      <Period>9</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>15.5.2020</Date>
+      <Time>9:50</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>10</ID>
+      <ClientFIO>Лучная Джэйлиза</ClientFIO>
+      <Name>FORD FOCUS 2012</Name>
+      <Price>4000</Price>
+      <DepositType>money</DepositType>
+      <Deposit>30000</Deposit>
+      <Measure>часов</Measure>
+      <Period>15</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>False</Saved>
+      <Date>11.5.2020</Date>
+      <Time>12:27</Time>
+      <Status>Активная</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>11</ID>
+      <ClientFIO>Клиентный Клиент</ClientFIO>
+      <Name>Велосипед Stels</Name>
+      <Price>550</Price>
+      <DepositType>product</DepositType>
+      <Deposit>часы</Deposit>
+      <Measure>часов</Measure>
+      <Period>17</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>12.5.2020</Date>
+      <Time>17:42</Time>
+      <Status>Активная</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>12</ID>
+      <ClientFIO>Чепров Михаил</ClientFIO>
+      <Name>Скейтборд Footwork</Name>
+      <Price>350</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>3340 394093</Deposit>
+      <Measure>часов</Measure>
+      <Period>6</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>12.5.2020</Date>
+      <Time>13:1</Time>
+      <Status>Завершена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>13</ID>
+      <ClientFIO>Капустин Алексей</ClientFIO>
+      <Name>Веломобиль Berg</Name>
+      <Price>500</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>8390 823902</Deposit>
+      <Measure>часов</Measure>
+      <Period>4</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>13.5.2020</Date>
+      <Time>11:1</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>14</ID>
+      <ClientFIO>Крюкин Валентин</ClientFIO>
+      <Name>Электросамокат Xiaomi</Name>
+      <Price>750</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>2367 723887</Deposit>
+      <Measure>часов</Measure>
+      <Period>9</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>12.5.2020</Date>
+      <Time>11:39</Time>
+      <Status>Завершена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>15</ID>
+      <ClientFIO>Волдинов Владислав</ClientFIO>
+      <Name>Веломобиль Berg X</Name>
+      <Price>1200</Price>
+      <DepositType>money</DepositType>
+      <Deposit>10000</Deposit>
+      <Measure>дней</Measure>
+      <Period>3</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>22.5.2020</Date>
+      <Time>15:45</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>16</ID>
+      <ClientFIO>Клиентный Клиент</ClientFIO>
+      <Name>Велосипед SilverBack</Name>
+      <Price>4000</Price>
+      <DepositType>money</DepositType>
+      <Deposit>45000</Deposit>
+      <Measure>дней</Measure>
+      <Period>3</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>3</AddServices>
+      <Saved>True</Saved>
+      <Date>16.5.2020</Date>
+      <Time>15:14</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>17</ID>
+      <ClientFIO>Волдинов Владислав</ClientFIO>
+      <Name>Трехколёсный велосипед Van Raam</Name>
+      <Price>400</Price>
+      <DepositType>money</DepositType>
+      <Deposit>15000</Deposit>
+      <Measure>часов</Measure>
+      <Period>12</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>False</Saved>
+      <Date>12.5.2020</Date>
+      <Time>20:42</Time>
+      <Status>Завершена</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>18</ID>
+      <ClientFIO>Хороший Клиент</ClientFIO>
+      <Name>Электросамокат Xiaomi</Name>
+      <Price>750</Price>
+      <DepositType>money</DepositType>
+      <Deposit>10000</Deposit>
+      <Measure>часов</Measure>
+      <Period>12,6</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>15.5.2020</Date>
+      <Time>19:15</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>19</ID>
+      <ClientFIO>Капустин Алексей</ClientFIO>
+      <Name>Трехколёсный велосипед Van Raam</Name>
+      <Price>400</Price>
+      <DepositType>product</DepositType>
+      <Deposit>продгр</Deposit>
+      <Measure>часов</Measure>
+      <Period>12</Period>
+      <CompAddress>ул. авродржлод, д. 67</CompAddress>
+      <SecondAddress>ул. авродржлод, д. 67</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>15.5.2020</Date>
+      <Time>12:36</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>20</ID>
+      <ClientFIO>Клиентный Клиент</ClientFIO>
+      <Name>Электросамокат Xiaomi</Name>
+      <Price>750</Price>
+      <DepositType>money</DepositType>
+      <Deposit>4568</Deposit>
+      <Measure>часов</Measure>
+      <Period>6,5</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>16.5.2020</Date>
+      <Time>12:28</Time>
+      <Status>Забронирована</Status>
+      <Description>lkjhg</Description>
+    </Rent>
+    <Rent>
+      <ID>21</ID>
+      <ClientFIO>Отличный Клиент</ClientFIO>
+      <Name>Велосипед SilverBack</Name>
+      <Price>500</Price>
+      <DepositType>money</DepositType>
+      <Deposit>123321</Deposit>
+      <Measure>часов</Measure>
+      <Period>9</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>17.5.2020</Date>
+      <Time>12:57</Time>
+      <Status>Активная</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>22</ID>
+      <ClientFIO>Капустин Алексей</ClientFIO>
+      <Name>TOYOTA FORTUNER 2012</Name>
+      <Price>5000</Price>
+      <DepositType>doc</DepositType>
+      <Deposit>5678 567876</Deposit>
+      <Measure>дней</Measure>
+      <Period>20</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>0,1</AddServices>
+      <Saved>True</Saved>
+      <Date>17.5.2020</Date>
+      <Time>13:1</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>23</ID>
+      <ClientFIO>Клиентный Клиент</ClientFIO>
+      <Name>KIA SPORTAGE 2019</Name>
+      <Price>3950</Price>
+      <DepositType>product</DepositType>
+      <Deposit>werwerw</Deposit>
+      <Measure>дней</Measure>
+      <Period>6</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>19.5.2020</Date>
+      <Time>13:0</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>24</ID>
+      <ClientFIO>Кочегаров Николай</ClientFIO>
+      <Name>Самокат Mid</Name>
+      <Price>300</Price>
+      <DepositType>money</DepositType>
+      <Deposit>23524</Deposit>
+      <Measure>часов</Measure>
+      <Period>7,5</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>17.5.2020</Date>
+      <Time>13:16</Time>
+      <Status>Активная</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>25</ID>
+      <ClientFIO>Кочегаров Николай</ClientFIO>
+      <Name>Скейтборд Footwork</Name>
+      <Price>350</Price>
+      <DepositType>product</DepositType>
+      <Deposit>tyjuterdjysdf</Deposit>
+      <Measure>часов</Measure>
+      <Period>7,5</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>17.5.2020</Date>
+      <Time>13:10</Time>
+      <Status>Активная</Status>
+      <Description>gdhjj</Description>
+    </Rent>
+    <Rent>
+      <ID>26</ID>
+      <ClientFIO>Чепров Михаил</ClientFIO>
+      <Name>ПУШКА ЛАДА 21099 1997</Name>
+      <Price>1000</Price>
+      <DepositType>money</DepositType>
+      <Deposit>321423</Deposit>
+      <Measure>дней</Measure>
+      <Period>9</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>2,3</AddServices>
+      <Saved>True</Saved>
+      <Date>17.5.2020</Date>
+      <Time>13:28</Time>
+      <Status>Активная</Status>
+      <Description>ewtff</Description>
+    </Rent>
+    <Rent>
+      <ID>27</ID>
+      <ClientFIO>Хороший Клиент</ClientFIO>
+      <Name>FORD FOCUS 2012</Name>
+      <Price>2300</Price>
+      <DepositType>money</DepositType>
+      <Deposit>456753</Deposit>
+      <Measure>дней</Measure>
+      <Period>5</Period>
+      <CompAddress>ул. Боткинский 2-й проезд, д. 67</CompAddress>
+      <SecondAddress>ул. Боткинский 2-й проезд, д. 67</SecondAddress>
+      <AddServices>5</AddServices>
+      <Saved>True</Saved>
+      <Date>17.5.2020</Date>
+      <Time>14:13</Time>
+      <Status>Активная</Status>
+      <Description>rthyr</Description>
+    </Rent>
+    <Rent>
+      <ID>28</ID>
+      <ClientFIO>ejgfhjrfghj</ClientFIO>
+      <Name>Веломобиль Berg</Name>
+      <Price>500</Price>
+      <DepositType>money</DepositType>
+      <Deposit>57688</Deposit>
+      <Measure>часов</Measure>
+      <Period>6</Period>
+      <CompAddress>ул. dgdfs, д. 333333333</CompAddress>
+      <SecondAddress>ул. dgdfs, д. 333333333</SecondAddress>
+      <AddServices>
+      </AddServices>
+      <Saved>True</Saved>
+      <Date>18.5.2020</Date>
+      <Time>14:23</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+    <Rent>
+      <ID>29</ID>
+      <ClientFIO>Васильев Василий</ClientFIO>
+      <Name>Веломобиль Berg</Name>
+      <Price>500</Price>
+      <DepositType>money</DepositType>
+      <Deposit>354234</Deposit>
+      <Measure>часов</Measure>
+      <Period>4</Period>
+      <CompAddress>ул. Турчанинов пер, д. 249</CompAddress>
+      <SecondAddress>ул. Турчанинов пер, д. 249</SecondAddress>
+      <AddServices>4</AddServices>
+      <Saved>True</Saved>
+      <Date>18.5.2020</Date>
+      <Time>11:13</Time>
+      <Status>Забронирована</Status>
+      <Description>
+      </Description>
+    </Rent>
+  </Rents>
+  <Clients>
+    <Client>
+      <FIO>Петров Пётр</FIO>
+      <Passport>2415 456789</Passport>
+      <License>7445 397537</License>
+      <Category>B</Category>
+      <Address>ул. Хорошая, д. 2</Address>
+      <Saved>True</Saved>
+      <Rents>1,6</Rents>
+    </Client>
+    <Client>
+      <FIO>Лучная Джэйлиза</FIO>
+      <Passport>2510 237789</Passport>
+      <License>8669 739283</License>
+      <Category>AB</Category>
+      <Address>ул. Крутая, д.32</Address>
+      <Saved>True</Saved>
+      <Rents>2,8,10</Rents>
+    </Client>
+    <Client>
+      <FIO>Васильев Василий</FIO>
+      <Passport>2500 390239</Passport>
+      <License>8879 378973</License>
+      <Category>BC</Category>
+      <Address>ул. Советская, д.53</Address>
+      <Saved>True</Saved>
+      <Rents>3,29</Rents>
+    </Client>
+    <Client>
+      <FIO>Кочегаров Николай</FIO>
+      <Passport>2515 678951</Passport>
+      <License>5689 664892</License>
+      <Category>B</Category>
+      <Address>ул.Уличная, д.1</Address>
+      <Saved>True</Saved>
+      <Rents>4,9,24,25</Rents>
+    </Client>
+    <Client>
+      <FIO>Хороший Клиент</FIO>
+      <Passport>2455 456895</Passport>
+      <License>4532 456789</License>
+      <Category>
+      </Category>
+      <Address>ул. Хорошая</Address>
+      <Saved>True</Saved>
+      <Rents>7,18,27</Rents>
+    </Client>
+    <Client>
+      <FIO>Отличный Клиент</FIO>
+      <Passport>2510 456789</Passport>
+      <License>2254 456782</License>
+      <Category>AB</Category>
+      <Address>ул. Хорошая</Address>
+      <Saved>True</Saved>
+      <Rents>6,21</Rents>
+    </Client>
+    <Client>
+      <FIO>Клиентный Клиент</FIO>
+      <Passport>2672 839234</Passport>
+      <License>3274 728394</License>
+      <Category>B</Category>
+      <Address>ул. Неплохая, д. 53</Address>
+      <Saved>True</Saved>
+      <Rents>5,11,16,20,23</Rents>
+    </Client>
+    <Client>
+      <FIO>Чепров Михаил</FIO>
+      <Passport>6732 042743</Passport>
+      <License>2839 052423</License>
+      <Category>B</Category>
+      <Address>ул. Сойдет, д.53</Address>
+      <Saved>True</Saved>
+      <Rents>12,26</Rents>
+    </Client>
+    <Client>
+      <FIO>Капустин Алексей</FIO>
+      <Passport>3223 492384</Passport>
+      <License>8290 528304</License>
+      <Category>B</Category>
+      <Address>ул. Пушкина, д.389</Address>
+      <Saved>False</Saved>
+      <Rents>13,19,22</Rents>
+    </Client>
+    <Client>
+      <FIO>Крюкин Валентин</FIO>
+      <Passport>3424 902374</Passport>
+      <License>8534 895353</License>
+      <Category>B</Category>
+      <Address>ул. Крюкова, д. 233</Address>
+      <Saved>False</Saved>
+      <Rents>14</Rents>
+    </Client>
+    <Client>
+      <FIO>Волдинов Владислав</FIO>
+      <Passport>2528 920294</Passport>
+      <License>
+      </License>
+      <Category>
+      </Category>
+      <Address>ул. Жорина, д.303</Address>
+      <Saved>True</Saved>
+      <Rents>15,17</Rents>
+    </Client>
+    <Client>
+      <FIO>Капустин Алексей</FIO>
+      <Passport>3223 492384</Passport>
+      <License>8290 528304</License>
+      <Category>B</Category>
+      <Address>ул. Пушкина, д.389</Address>
+      <Saved>True</Saved>
+      <Rents>
+      </Rents>
+    </Client>
+    <Client>
+      <FIO>ejgfhjrfghj</FIO>
+      <Passport>2562 546246</Passport>
+      <License>2456 245624</License>
+      <Category>
+      </Category>
+      <Address>tryhdsgf</Address>
+      <Saved>False</Saved>
+      <Rents>28</Rents>
+    </Client>
+    <Client>
+      <FIO>sdfgdfg</FIO>
+      <Passport>1234 56789</Passport>
+      <License>4769 846789</License>
+      <Category>
+      </Category>
+      <Address>uokilyul</Address>
+      <Saved>True</Saved>
+      <Rents>
+      </Rents>
+    </Client>
+  </Clients>
+</Data>

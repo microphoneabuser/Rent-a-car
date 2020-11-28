@@ -1,0 +1,23 @@
+<Settings>
+  <Dprice>1</Dprice>
+  <Ddeposit>1</Ddeposit>
+  <Dperiod>17</Dperiod>
+  <Round>3</Round>
+  <Users>
+    <User>
+      <login>danil</login>
+      <password>12345</password>
+      <status>admin</status>
+    </User>
+    <User>
+      <login>flex</login>
+      <password>54321</password>
+      <status>manager</status>
+    </User>
+    <User>
+      <login>manager</login>
+      <password>manager</password>
+      <status>manager</status>
+    </User>
+  </Users>
+</Settings>

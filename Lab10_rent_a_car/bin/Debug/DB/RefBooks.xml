@@ -1,0 +1,335 @@
+<Data>
+  <Objects>
+    <Object>
+      <id>0</id>
+      <name>HYUNDAI CRETA 2018</name>
+      <num>т553ук</num>
+      <price>3850</price>
+      <rents>1</rents>
+      <deleted>False</deleted>
+      <quantity>2</quantity>
+      <inRent>0</inRent>
+      <inStock>2</inStock>
+      <repair>0</repair>
+      <minT>3</minT>
+      <maxT>65</maxT>
+      <description>Хорошая машина</description>
+      <damage>Нет</damage>
+      <measure>дней</measure>
+    </Object>
+    <Object>
+      <id>1</id>
+      <name>KIA SPORTAGE 2019</name>
+      <num>р376рв</num>
+      <price>3950</price>
+      <rents>2,23</rents>
+      <deleted>False</deleted>
+      <quantity>4</quantity>
+      <inRent>1</inRent>
+      <inStock>3</inStock>
+      <repair>0</repair>
+      <minT>2</minT>
+      <maxT>50</maxT>
+      <description>Хорошая машина так-то</description>
+      <damage>Ну чуток помята</damage>
+      <measure>дней</measure>
+    </Object>
+    <Object>
+      <id>2</id>
+      <name>ПУШКА ЛАДА 21099 1997</name>
+      <num>х487ко</num>
+      <price>1000</price>
+      <rents>4,26</rents>
+      <deleted>False</deleted>
+      <quantity>2</quantity>
+      <inRent>2</inRent>
+      <inStock>0</inStock>
+      <repair>0</repair>
+      <minT>1</minT>
+      <maxT>60</maxT>
+      <description>Хорошая машина неплохая</description>
+      <damage>Нет</damage>
+      <measure>дней</measure>
+    </Object>
+    <Object>
+      <id>3</id>
+      <name>FORD FOCUS 2012</name>
+      <num>р547кс</num>
+      <price>2300</price>
+      <rents>3,10,27</rents>
+      <deleted>False</deleted>
+      <quantity>5</quantity>
+      <inRent>1</inRent>
+      <inStock>3</inStock>
+      <repair>1</repair>
+      <minT>5</minT>
+      <maxT>75</maxT>
+      <description>Нормальная машина</description>
+      <damage>Нет</damage>
+      <measure>дней</measure>
+    </Object>
+    <Object>
+      <id>4</id>
+      <name>TOYOTA FORTUNER 2012</name>
+      <num>г567ре</num>
+      <price>5000</price>
+      <rents>5,22</rents>
+      <deleted>False</deleted>
+      <quantity>2</quantity>
+      <inRent>1</inRent>
+      <inStock>1</inStock>
+      <repair>0</repair>
+      <minT>2</minT>
+      <maxT>50</maxT>
+      <description>Нормальная машина</description>
+      <damage>Нет</damage>
+      <measure>дней</measure>
+    </Object>
+    <Object>
+      <id>5</id>
+      <name>Велосипед SilverBack</name>
+      <num>01b</num>
+      <price>500</price>
+      <rents>6,7,8,9,21</rents>
+      <deleted>False</deleted>
+      <quantity>5</quantity>
+      <inRent>3</inRent>
+      <inStock>2</inStock>
+      <repair>0</repair>
+      <minT>1</minT>
+      <maxT>28</maxT>
+      <description>Велосипед как велосипед</description>
+      <damage>Пока нет</damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>6</id>
+      <name>Велосипед Stels</name>
+      <num>02b</num>
+      <price>550</price>
+      <rents>11</rents>
+      <deleted>False</deleted>
+      <quantity>10</quantity>
+      <inRent>1</inRent>
+      <inStock>9</inStock>
+      <repair>0</repair>
+      <minT>1</minT>
+      <maxT>40</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>7</id>
+      <name>Электросамокат Xiaomi</name>
+      <num>01xs</num>
+      <price>750</price>
+      <rents>14,18,20</rents>
+      <deleted>False</deleted>
+      <quantity>4</quantity>
+      <inRent>2</inRent>
+      <inStock>2</inStock>
+      <repair>0</repair>
+      <minT>1</minT>
+      <maxT>12</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>8</id>
+      <name>Самокат Mid</name>
+      <num>02b</num>
+      <price>300</price>
+      <rents>24</rents>
+      <deleted>False</deleted>
+      <quantity>8</quantity>
+      <inRent>1</inRent>
+      <inStock>6</inStock>
+      <repair>1</repair>
+      <minT>1</minT>
+      <maxT>11</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>9</id>
+      <name>Скейтборд Footwork</name>
+      <num>01sk</num>
+      <price>350</price>
+      <rents>12,25</rents>
+      <deleted>False</deleted>
+      <quantity>5</quantity>
+      <inRent>1</inRent>
+      <inStock>4</inStock>
+      <repair>0</repair>
+      <minT>1</minT>
+      <maxT>13</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>10</id>
+      <name>Трехколёсный велосипед Van Raam</name>
+      <num>03b</num>
+      <price>400</price>
+      <rents>17</rents>
+      <deleted>False</deleted>
+      <quantity>11</quantity>
+      <inRent>0</inRent>
+      <inStock>10</inStock>
+      <repair>1</repair>
+      <minT>1</minT>
+      <maxT>12</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>11</id>
+      <name>Веломобиль Berg</name>
+      <num>04vm</num>
+      <price>500</price>
+      <rents>13,28,29</rents>
+      <deleted>False</deleted>
+      <quantity>16</quantity>
+      <inRent>3</inRent>
+      <inStock>12</inStock>
+      <repair>1</repair>
+      <minT>1</minT>
+      <maxT>35</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>12</id>
+      <name>Веломобиль Berg X</name>
+      <num>05vbx</num>
+      <price>450</price>
+      <rents>15</rents>
+      <deleted>False</deleted>
+      <quantity>14</quantity>
+      <inRent>1</inRent>
+      <inStock>10</inStock>
+      <repair>3</repair>
+      <minT>1</minT>
+      <maxT>13</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>часов</measure>
+    </Object>
+    <Object>
+      <id>13</id>
+      <name>hytuio</name>
+      <num>567gjk</num>
+      <price>4000</price>
+      <rents>16</rents>
+      <deleted>True</deleted>
+      <quantity>2</quantity>
+      <inRent>1</inRent>
+      <inStock>1</inStock>
+      <repair>0</repair>
+      <minT>1</minT>
+      <maxT>11</maxT>
+      <description>
+      </description>
+      <damage>
+      </damage>
+      <measure>дней</measure>
+    </Object>
+    <Object>
+      <id>14</id>
+      <name>что-то</name>
+      <num>456апр</num>
+      <price>10000</price>
+      <rents>19</rents>
+      <deleted>True</deleted>
+      <quantity>1</quantity>
+      <inRent>1</inRent>
+      <inStock>0</inStock>
+      <repair>0</repair>
+      <minT>1</minT>
+      <maxT>10</maxT>
+      <description>пнрп</description>
+      <damage>вапро</damage>
+      <measure>дней</measure>
+    </Object>
+  </Objects>
+  <AddServices>
+    <AddService>
+      <id>0</id>
+      <name>Детское кресло</name>
+      <price>0</price>
+      <deleted>False</deleted>
+    </AddService>
+    <AddService>
+      <id>1</id>
+      <name>Дополнительная страховка</name>
+      <price>1550</price>
+      <deleted>False</deleted>
+    </AddService>
+    <AddService>
+      <id>2</id>
+      <name>Повышенный лимит пробега</name>
+      <price>1000</price>
+      <deleted>False</deleted>
+    </AddService>
+    <AddService>
+      <id>3</id>
+      <name>Доставка автомобиля</name>
+      <price>2700</price>
+      <deleted>False</deleted>
+    </AddService>
+    <AddService>
+      <id>4</id>
+      <name>что-то</name>
+      <price>3455</price>
+      <deleted>True</deleted>
+    </AddService>
+    <AddService>
+      <id>5</id>
+      <name>gfnj5</name>
+      <price>5645</price>
+      <deleted>True</deleted>
+    </AddService>
+  </AddServices>
+  <CompAddresses>
+    <CompAddress>
+      <name>ул. Турчанинов пер, д. 249</name>
+      <deleted>False</deleted>
+    </CompAddress>
+    <CompAddress>
+      <name>ул. Боткинский 2-й проезд, д. 67</name>
+      <deleted>False</deleted>
+    </CompAddress>
+    <CompAddress>
+      <name>ул. авродржлод, д. 67</name>
+      <deleted>True</deleted>
+    </CompAddress>
+    <CompAddress>
+      <name>ул. sdfgsd, д. 2</name>
+      <deleted>False</deleted>
+    </CompAddress>
+    <CompAddress>
+      <name>ул. dgdfs, д. 333333333</name>
+      <deleted>True</deleted>
+    </CompAddress>
+  </CompAddresses>
+</Data>
